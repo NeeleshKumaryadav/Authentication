@@ -1,4 +1,3 @@
-# Authentication
 # Authentication Page with Node.js
 
 A simple authentication page implemented in Node.js using the Model-View-Controller (MVC) architecture. This project incorporates security features such as password hashing with bcrypt, token-based authentication using JSON Web Tokens (JWT), and validation with the validator module.
